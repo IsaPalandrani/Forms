@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&display=swap');
+
+body{
+    background-image: url(fundo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(255, 255, 255);
+    font-family: 'Capriola', sans-serif;
+
+}
+h1{
+    font-family: Capriola;
+    color: cornflowerblue;
+}
+textarea{
+    resize:none;
+    width: 100%;
+}
+fieldset{
+    width: 500px;
+}
+
+.game {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
